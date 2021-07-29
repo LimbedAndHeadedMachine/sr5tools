@@ -1,0 +1,4 @@
+
+# Obsidian-Specific ignores
+.obsidian/
+.trash/

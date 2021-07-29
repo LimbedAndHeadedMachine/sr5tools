@@ -1,0 +1,3 @@
+#Incomplete 
+# Powers
+## Dual Natured
