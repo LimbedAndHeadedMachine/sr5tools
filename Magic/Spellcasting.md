@@ -18,7 +18,7 @@ Range determines the requirements for targeting a given spell.
 #### Line Of Sight
 A target type of LOS requires having line of sight to the target. This line of sight can be established through reflections or transparent materials, but must be made with your own eyesight. Cyber or bioware that was paid for with essence counts for this requirement, but a camera feed would not as you are seeing a generated image.
 
-Astral sight can be used to target astral forms if you are [[The Astral Plane#Astral Perception|astrally perceiving]] or are [[The Astral Plane#Astral Projection|astral projecting]]. If you are in astral space, you can only target [[The Astral Plane#Astral Forms|astral forms]], and vice versa in physical space. If you are [[Powers#Dual Natured|dual natured]] then you can target forms in both physical and astral space.
+Astral sight can be used to target astral forms if you are [[The Astral Plane#Astral Perception|astrally perceiving]] or are [[The Astral Plane#Astral Projection|astral projecting]]. If you are in astral space, you can only target [[The Astral Plane#Astral Forms|astral forms]], and vice versa in physical space. If you are [[Critter Powers#Dual Natured|dual natured]] then you can target forms in both physical and astral space.
 #### Line Of Sight (Area)
 A target type of LOS(A) works like LOS but affects an area. This area has a radius equal to the [[Magic#Magic Force|force]] of the spell in meters.
  #### Touch
