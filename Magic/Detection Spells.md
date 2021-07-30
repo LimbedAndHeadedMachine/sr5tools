@@ -1,4 +1,4 @@
-#Incomplete 
+#SR5 #Magic
 # Detection Spells
 Detection spells are used to give the target a new sense, or modify their existing senses. They can be cast on yourself or another target, usually within touch range. These spells are almost always sustained, granting their benefits to the target as long as the caster sustains them.
 ## Range

@@ -20,6 +20,7 @@ There are 4 main categories of magic.
 ## Object Resistance
 
 ## The Astral Plane
+The astral plane is scary
 
 ## Mentor Spirits
 
