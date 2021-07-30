@@ -47,7 +47,7 @@ A target type of LOS(A) works like LOS but affects an area. This area has a radi
  - [[Detection Spells]]
  - [[Health Spells]]
  - [[Illusion Spells]]
- - [[Manipulation spells]]
+ - [[Manipulation Spells]]
 
 ## Casting A Spell
 Spellcasting can be broken up into the following steps:
