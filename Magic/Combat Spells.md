@@ -9,6 +9,8 @@ Direct damage spells inflict damage on the target directly. Your rolls for these
 
 These spells pit your [[Skills#Spellcasting|Spellcasting]] + [[Attributes#Magic|Magic]] \[[[Magic#Magic Force|Force]]\] against the target's [[Attributes#Body|Body]] or [[Attributes#Willpower|Willpower]], depending on if the spell is of a [[Spellcasting#Physical Spells|Physical]] or [[Spellcasting#Mana Spells|Mana]] type.
 The spell deals damage according to the net hits you get on this opposed test. The target does not get to roll to resist damage.
+#### Area Spells
+If the spell is an area spell, only make one spellcasting roll. Each target inside the area of the spell makes their own roll against the spell.
 ### Indirect
 Indirect damage spells are called into existence near the caster before being launched towards the target. This can be represented however you like. Some mages like to add flair to their casting of these types of spells. Your rolls for these spells translate to your ability to hit the target vs their ability to dodge, and the strength of their armor.
 #### Single Target

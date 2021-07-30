@@ -17,3 +17,9 @@
 # Charisma
 
 # Magic
+
+# Limits
+## Mental
+## Social
+## Physical
+## Astral
