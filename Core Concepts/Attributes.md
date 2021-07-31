@@ -38,6 +38,9 @@ If you intend to cast spells or use magic in any way, your character needs to ha
 
 ## Resonance
 Similar to Magic for mages and adepts, Resonance is the special attribute for technomancers. Technomancers interface with the Matrix using the power of their mind, and Resonance measures the strength of their ability to interact with and shape that environment Non-technomancers have a zero rating for Resonance.  
+
+## Essence
+Essence is your metahumanity in a number. Altering your body through augmentation or other means often incurs an essence loss, lowering your humanity. Characters start with six essence. When it's gone, it doesn't come back. Essence affects your [[Attributes#Magic|Magic]] and [[Attributes#Resonance|Resonance]] attributes, and essence losses are reflected with losses of those attributes as well. Low essence can give obsevers an "uncanny valley" feeling, as they recognize that what they're looking at isn't *quite* metahuman.
 # Limits
 ## Mental
 ## Social
