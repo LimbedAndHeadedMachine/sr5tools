@@ -353,37 +353,37 @@ This skill is used to pilot any waterborne vehicle, whether from inside it or by
 ## Magical Skills
 
 ### *Counterspelling*
-Counterspelling is a defensive skill used to defend against magical attacks and dispel sustained magical spells.
+Counterspelling is a defensive skill used to defend against magical attacks and dispel sustained magical spells. Counterspelling uses [[Attributes#Magic|Magic]].
 	**Default:** No
 	**Skill Group:** Sorcery
 	**Specializations:** By spell type (Combat Spells, Detection Spells, etc.)
 	
 ### *Ritual Spellcasting*
-Ritual spellcasting is a spellcasting skill used to cast ritual spells.
+Ritual spellcasting is a spellcasting skill used to cast ritual spells. Ritual Spellcasting uses [[Attributes#Magic|Magic]].
 	**Default:** No
 	**Skill Group:** Sorcery
 	**Specializations:** By keyword (Anchored Spell, etc)
 	
 ### *Spellcasting*
-The Spellcasting skill permits the character to channel mana into effects known as spells.
+The Spellcasting skill permits the character to channel mana into effects known as spells. Spellcasting uses [[Attributes#Magic|Magic]].
 	**Default:** No
 	**Skill Group:** Sorcery
 	**Specializations:** By spell type (Combat Spells, Detection Spells, etc.)
 
 ### *Banishing*
-Banishing is used to disrupt the link between spirits and the physical world. Banished spirits are forced to return to their native plane and are no longer required to complete unfulfilled services.
+Banishing is used to disrupt the link between spirits and the physical world. Banished spirits are forced to return to their native plane and are no longer required to complete unfulfilled services. Banishing uses [[Attributes#Magic|Magic]].
 	**Default:** No
 	**Skill Group:** Conjuring
 	**Specializations:** By spirit type (Spirits of Air, Spirits of Man, etc.)
 	
 ### *Binding*
-Binding is used to compel a summoned spirit to perform a number of additional services.
+Binding is used to compel a summoned spirit to perform a number of additional services. Binding uses [[Attributes#Magic|Magic]].
 	**Default:** No
 	**Skill Group:** Conjuring
 	**Specializations:** By Spirit type (Spirits of Fire, Spirits of Earth, etc.)
 	
 ### *Summoning*
-This skill is used to summon spirits.
+This skill is used to summon spirits. Summoning uses [[Attributes#Magic|Magic]].
 	**Default:** No
 	**Skill Group:** Conjuring
 	**Specializations:**  By spirit type (Spirits of Earth, Spirits of Man, etc.)
@@ -401,18 +401,23 @@ Artificing is the process of crafting magical foci. The skill may also be used f
 	**Specializations:** Focus Analysis, Crafting (by focus type)
 	
 ### *Disenchanting*
-This skill governs a character's ability to remove the enchantment from an item.
+This skill governs a character's ability to remove the enchantment from an item. Disenchanting uses [[Attributes#Magic|Magic]].
 	**Default:** No
 	**Skill Group:** Enchanting
 	**Specializations:** By type (Alchemical Preparations, Power Foci)
 
 ### *Assensing*
-Assensing is a magic user's ability to read and interpret fluctuations in the astral world. This skill allows practitioners to learn information by reading astral auras. Only characters capable of astral perception may take this skill. 
+Assensing is a magic user's ability to read and interpret fluctuations in the astral world. This skill allows practitioners to learn information by reading astral auras. Only characters capable of astral perception may take this skill. Assensing uses [[Attributes#Intuition|Intuition]].
 	**Default:** No
 	**Skill Group:** None
 	**Specializations:** Aura Reading, Astral Signatures, by aura type (Metahumans, Spirits, Foci, Wards, etc.)
 	
 ### *Astral Combat*
+Fighting in Astral Space requires the Astral Combat skill. Combat in the Astral World relies on a very different set of abilities and attributes than physical combatants. Astral Combat uses [[Attributes#Willpower|Willpower]].
+	**Default:** No
+	**Skill Group:** None
+	**Specializations:** By specific weapon focus type, by opponents (Magicians, Spirits, Mana Barriers, etc.)
+	
 ### *Arcana*
 Arcana governs the creation of magical formulae used to create spells, foci, and all other manner of magical manipulations. Arcana is required to understand formulae that may be purchased over the counter or discovered by other means. Arcana uses [[Attributes#Logic|Logic]].
 	**Default:** No
