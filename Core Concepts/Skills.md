@@ -318,7 +318,7 @@ This skill governs the training, care, riding (if they're big enough), and contr
 ## Vehicle Skills
 
 ### Gunnery
-Gunnery is used when firing any vehicle-mounted weapon. regardless of how or where the weapon is mounted. This skill extends to manual and sensor-enhanced gunnery.
+Gunnery is used when firing any vehicle-mounted weapon. regardless of how or where the weapon is mounted. This skill extends to manual and sensor-enhanced gunnery. Gunnery uses [[Attributes#Agility]].
 	**Default:** Yes
 	**Skill Group:** None
 	**Specializations:** Artillery, Ballistic, Energy, Guided Missile, Rocket
@@ -342,6 +342,10 @@ This skill is used to pilot any ground-based vehicle, excluding legged vehicles.
 	**Specializations:** Bike, Hovercraft, Remote Operation, Tracked, Wheeled
 	
 ### *Pilot Walker*
+Any vehicle that walks on two or more legs is piloted through this skill. Characters may control the walker physically or remotely.
+	**Default:** No
+	**Skill Group:** None
+	**Specializations:** Biped, Multiped, Quadruped, Remote
 
 ### Pilot Watercraft
 This skill is used to pilot any waterborne vehicle, whether from inside it or by remote control.
