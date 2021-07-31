@@ -112,12 +112,6 @@ Need to get where you're not supposed to be? This skill allows you to remain inc
 	**Skill Group:** Stealth
 	**Specializations:** Location type (Jungle, Urban, Desert, etc.)
 	
-### Animal Handling
-This skill governs the training, care, riding (if they're big enough), and control of non-sentient animals. Competent trainers have the ability to handle multiple animals. It is even possible to approach an untrained animal and get it to trust you, or at least not eat you. Animal Handling uses [[Attributes#Charisma|Charisma]]
-	**Default:** Yes
-	**Skill Group:** None
-	**Specializations:** By animal (Cat, Bird, Hell Hound, Horse, Dolphin, etc.) Herding, Riding, Training
-	
 ### Diving
 Diving brings together a wide array of actions performed underwater. This skill can be applied when diving, swimming underwater, using complex diving equipment, and holding your breath. Diving uses [[Attributes#Body|Body]].
 	**Default:** Yes
@@ -313,31 +307,118 @@ Forgery is used to produce counterfeit items or alter existing items to a specif
 ### *Locksmith*
 This skill covers building, repairing, and opening mechanical and electronic locks. While largely banished to antiquity, traditional mechanical locking mechanisms are still in use around the globe, often as throwbacks or backups. Electronic locks are far more common and quite susceptible to your ministrations. Locksmith uses [[Attributes#Agility|Agility]]
 
+### Animal Handling
+This skill governs the training, care, riding (if they're big enough), and control of non-sentient animals. Competent trainers have the ability to handle multiple animals. It is even possible to approach an untrained animal and get it to trust you, or at least not eat you. Animal Handling uses [[Attributes#Charisma|Charisma]]
+	**Default:** Yes
+	**Skill Group:** None
+	**Specializations:** By animal (Cat, Bird, Hell Hound, Horse, Dolphin, etc.) Herding, Riding, Training
+
 
 
 ## Vehicle Skills
 
 ### Gunnery
+Gunnery is used when firing any vehicle-mounted weapon. regardless of how or where the weapon is mounted. This skill extends to manual and sensor-enhanced gunnery.
+	**Default:** Yes
+	**Skill Group:** None
+	**Specializations:** Artillery, Ballistic, Energy, Guided Missile, Rocket
+
 ### *Pilot Aerospace*
+Aerospace vehicles include all reduced- and zero-gravity aircraft capable of suborbital or extra-orbital flight.
+	**Default:** No
+	**Skill Group:** None
+	**Specializations:** Deep Space, Launch Craft, Remote Operation, Semiballistic, Suborbital
+	
 ### *Pilot Aircraft*
+This skill is used to pilot any manned or unmanned aircraft operating solely within planetary atmosphere.
+	**Default:** No
+	**Skill Group:** None
+	**Specializations:** Fixed-Wing, Lighter-Than-Air, Remote Operation, Rotary Wing, Tilt Wing, Vectored Thrust
+	
 ### Pilot Ground Craft
+This skill is used to pilot any ground-based vehicle, excluding legged vehicles. This skill applies whether the pilot is in the vehicle or controlling the vehicle via remote access.
+	**Default:** Yes
+	**Skill Group:** None
+	**Specializations:** Bike, Hovercraft, Remote Operation, Tracked, Wheeled
+	
 ### *Pilot Walker*
+
 ### Pilot Watercraft
+This skill is used to pilot any waterborne vehicle, whether from inside it or by remote control.
+	**Default:** Yes
+	**Skill Group:** None
+	**Specializations:** Hydrofoil, Motorboat, Remote Operation, Sail, Ship, Submarine
+	
 
 ## Magical Skills
 
 ### *Counterspelling*
+Counterspelling is a defensive skill used to defend against magical attacks and dispel sustained magical spells.
+	**Default:** No
+	**Skill Group:** Sorcery
+	**Specializations:** By spell type (Combat Spells, Detection Spells, etc.)
+	
 ### *Ritual Spellcasting*
+Ritual spellcasting is a spellcasting skill used to cast ritual spells.
+	**Default:** No
+	**Skill Group:** Sorcery
+	**Specializations:** By keyword (Anchored Spell, etc)
+	
 ### *Spellcasting*
+The Spellcasting skill permits the character to channel mana into effects known as spells.
+	**Default:** No
+	**Skill Group:** Sorcery
+	**Specializations:** By spell type (Combat Spells, Detection Spells, etc.)
+
 ### *Banishing*
+Banishing is used to disrupt the link between spirits and the physical world. Banished spirits are forced to return to their native plane and are no longer required to complete unfulfilled services.
+	**Default:** No
+	**Skill Group:** Conjuring
+	**Specializations:** By spirit type (Spirits of Air, Spirits of Man, etc.)
+	
 ### *Binding*
+Binding is used to compel a summoned spirit to perform a number of additional services.
+	**Default:** No
+	**Skill Group:** Conjuring
+	**Specializations:** By Spirit type (Spirits of Fire, Spirits of Earth, etc.)
+	
 ### *Summoning*
+This skill is used to summon spirits.
+	**Default:** No
+	**Skill Group:** Conjuring
+	**Specializations:**  By spirit type (Spirits of Earth, Spirits of Man, etc.)
+	
 ### *Alchemy*
+Alchemy is used to create substances that store spells. Alchemy is most commonly used to brew potions, distill magical reagents, and even create orihalcum. Alchemy uses [[Attributes#Magic|Magic]].
+	**Default:** No
+	**Skill Group:** Enchanting
+	**Specializations:** By trigger (Command, Contact, Time), by spell type (Combat Spells, Detection Spells, etc.)
+	
 ### *Artificing*
+Artificing is the process of crafting magical foci. The skill may also be used forensically, in order to assense qualities about an existing focus' creation and purpose.
+	**Default:** No
+	**Skill Group:** Enchanting
+	**Specializations:** Focus Analysis, Crafting (by focus type)
+	
 ### *Disenchanting*
+This skill governs a character's ability to remove the enchantment from an item.
+	**Default:** No
+	**Skill Group:** Enchanting
+	**Specializations:** By type (Alchemical Preparations, Power Foci)
+
 ### *Assensing*
+Assensing is a magic user's ability to read and interpret fluctuations in the astral world. This skill allows practitioners to learn information by reading astral auras. Only characters capable of astral perception may take this skill. 
+	**Default:** No
+	**Skill Group:** None
+	**Specializations:** Aura Reading, Astral Signatures, by aura type (Metahumans, Spirits, Foci, Wards, etc.)
+	
 ### *Astral Combat*
 ### *Arcana*
+Arcana governs the creation of magical formulae used to create spells, foci, and all other manner of magical manipulations. Arcana is required to understand formulae that may be purchased over the counter or discovered by other means. Arcana uses [[Attributes#Logic|Logic]].
+	**Default:** No
+	**Skill Group:** None
+	**Specializations:** Spell Design, Focus Design, Spirit Formula
+	
 
 ## Resonance Skills
 
