@@ -70,7 +70,7 @@ Casting a spell is a complex action by default. You can instead cast the spell(s
 Make a [[Skills#Spellcasting|Spellcasting]] + [[Attributes#Magic|Magic]] test, with a limit of the force of the spell. Apply any modifiers including wounds, sustained spells, and environment.
 
 ### 5. Determine The Spell Effects
-Determine the effect of the spell(s), as listed in the desciption of the spell. Some spells require the target to contest it's effect, or have different effects as determined by the number of hits rolled when casting the spell. Refer to the spell's page for details.
+Determine the effect of the spell(s), as listed in the description of the spell. Some spells require the target to contest it's effect, or have different effects as determined by the number of hits rolled when casting the spell. Refer to the spell's page for details.
 
 This step precedes rolling for drain. The spell will take effect even if drain knocks you unconscious.
 

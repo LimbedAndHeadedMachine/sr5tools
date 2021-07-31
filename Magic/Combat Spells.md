@@ -18,6 +18,6 @@ These spells pit your [[Skills#Spellcasting|Spellcasting]] + [[Attributes#Magic|
 The spell deals damage according to the Force of the spell + the net hits on the opposed test, with an [[Armor#Armor Penetration|Armor Penetration]] value equal to the Force of the spell. Damage is resisted with [[Attributes#Body|Body]] + [[Armor#Armor Value|Armor]]. Remember to reduce the armor value by the Armor Penetration of the spell.
 #### Area Target
 If an indirect spell is an area of effect spell, it detonates on reaching the target area.
-This test works like a grenade, being a [[Skills#Spellcasting|Spellcasting]] + [[Attributes#Magic|Magic]] \[[[Magic#Magic Force|Force]]\] (3) test with a scatter of 2D6 Meters. If you beat the threshhold, add your net hits to the damage of the spell. Otherwise the hits are used to reduce scatter by 1 meter per hit.
+This test works like a grenade, being a [[Skills#Spellcasting|Spellcasting]] + [[Attributes#Magic|Magic]] \[[[Magic#Magic Force|Force]]\] (3) test with a scatter of 2D6 Meters. If you beat the threshold, add your net hits to the damage of the spell. Otherwise the hits are used to reduce scatter by 1 meter per hit.
 ### Elemental
-Elemental spells use one of the aforementioned categories to determine their rolls and damage, but deal additional [[Damage#Elemental Damage|Elemental Damage]]. The type of aditional damage is listed in the spell entry.
+Elemental spells use one of the aforementioned categories to determine their rolls and damage, but deal additional [[Damage#Elemental Damage|Elemental Damage]]. The type of additional damage is listed in the spell entry.
