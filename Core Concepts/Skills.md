@@ -12,6 +12,10 @@
 ### Longarms
 ### Pistols
 ### Archery
+Archery is used to fire string-loaded projectile weapons. An archer is familiar with many different styles of bow and the multitude of arrows that can be used to maximum effect.
+	Default: Yes
+	Skill Group: No
+	Specializations: Bow, Crossbow, Non-standard Ammunition, Slingshot
 ### Heavy Weapons
 ### Throwing Weapons
 
