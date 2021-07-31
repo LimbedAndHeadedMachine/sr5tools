@@ -25,3 +25,5 @@ The astral plane is scary
 ## Mentor Spirits
 
 ## Initiation
+
+## Perceiving Magic

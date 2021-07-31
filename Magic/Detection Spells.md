@@ -11,7 +11,7 @@ Passive spells do not require the target to use a separate action in order to us
 Counterspelling cannot help defend against passive senses gained in this way, but the spell can still be [[Sorcery#Dispelling|Dispelled]].
 
 ### Active
-Active spells require an action to use the new sense. This usually requires a contested roll between the caster's [[Skills#Spellcasting|Spellcasting]] + [[Attributes#Magic|Magic]] \[[[Magic#Magic Force|Force]]\] and a pool according to the type of target.
+Active spells require an action to use the new sense. These spells pit your [[Skills#Spellcasting|Spellcasting]] + [[Attributes#Magic|Magic]] \[[[Magic#Magic Force|Force]]\] against a pool according to the type of target.
 #### Living Things With Auras
 Living things that have auras use their [[Attributes#Willpower|Willpower]] + [[Attributes#Logic|Logic]] \[[[Attributes#Mental|Mental]]\]. If the target can use counterspelling, add it to their dice pool as well. This applies even if the target is unaware of the spell.
 #### Magical Objects
