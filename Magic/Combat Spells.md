@@ -1,4 +1,4 @@
-#Sr5 #Magic
+#SR5 #Magic
 # Combat Spells
 Combat spells use mana for offensive purposes. They're a magician's weapons and are treated as such.
 

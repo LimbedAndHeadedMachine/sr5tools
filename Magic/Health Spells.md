@@ -1,4 +1,4 @@
-#Incomplete 
+#SR5 #Magic
 # Health Spells
 Health spells are used to heal injury, cure diseases, and modify and enhance the functions of the body. Health spells cannot heal stun damage or cure psychological conditions. Additionally,  ***Health spells cannot be used to heal damage taken through drain.***
 

@@ -1,4 +1,4 @@
-#Incomplete 
+#Sr5 #Magic
 # Manipulation Spells
 Manipulation spells are used to animate, transform, and control various forms of matter and energy.
 

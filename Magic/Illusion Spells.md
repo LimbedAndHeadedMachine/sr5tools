@@ -1,4 +1,4 @@
-#Incomplete 
+#SR5 #Magic 
 # Illusion Spells
 Illusion spells distract or confuse enemies, creating mental or visual illusory effects. No matter what the illusion or how realistic, however, they cannot cause actual physical harm.
 ## Categories
