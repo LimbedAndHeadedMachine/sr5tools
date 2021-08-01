@@ -2,7 +2,7 @@
 
 # Spellcasting
 Sorcerers can use Spellcasting to cast spells, creating powerful magical effects.
-Before you can cast a spell, you must [[Learning Spells|Learn the spell]].
+Before you can cast a spell, you must [[Magic|Learn the spell]].
 ## Spell Characteristics
 Every spell has a set of characteristics that determines how it functions:
 ### Type:

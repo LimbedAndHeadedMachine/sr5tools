@@ -1,6 +1,6 @@
 #SR5 #Magic 
 # Ritual Spellcasting
-Sorcers can use Ritual Spellcasting to create magical effects that normal [[Spellcasting|spellcasting]] cannot achieve, usually having far greater range or duration. Before you can perform a ritual, you must [[Learning Spells|Learn the ritual]].
+Sorcers can use Ritual Spellcasting to create magical effects that normal [[Spellcasting|spellcasting]] cannot achieve, usually having far greater range or duration. Before you can perform a ritual, you must [[Magic|Learn the ritual]].
 ## Ritual Characteristics
 Every ritual has a set of characteristics that determines how it functions:
 ### Anchored
