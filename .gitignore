@@ -2,3 +2,4 @@
 # Obsidian-Specific ignores
 .obsidian/
 .trash/
+.workbench.md
